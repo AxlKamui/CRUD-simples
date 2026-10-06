@@ -1,2 +1,2 @@
 # CRUD-simples
-Um CRUD simples para cadastro de usuarios
+Um CRUD simples em Django para cadastro de usuarios
